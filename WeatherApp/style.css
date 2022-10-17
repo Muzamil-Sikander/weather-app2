@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+    background-color: rgb(208, 87, 12);
+    
+}
+.main{
+    margin: 50px;
+    padding: 5px;
+}
+.data{
+    color: greenyellow;
+    margin-top: 50px;
+}
